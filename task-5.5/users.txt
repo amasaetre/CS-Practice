@@ -1,0 +1,5 @@
+﻿Логин : user1
+Пароль : password123
+
+Логин : admin
+Пароль : adminPass
